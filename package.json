@@ -1,0 +1,19 @@
+{
+    "name": "js-customevent",
+    "version": "0.0.1",
+    "description": "CustomEvent wrapper",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node_modules/.bin/webpack-dev-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "babel-core": "^6.26.0",
+        "babel-loader": "^7.1.2",
+        "babel-preset-env": "^1.6.1",
+        "webpack": "^3.10.0",
+        "webpack-dev-server": "^2.11.1"
+    }
+}
